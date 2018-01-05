@@ -27,4 +27,4 @@ const marked = require("marked");
 
 ```
 
-* [marked packages](https://www.npmjs.com/package/marked)
+* [marked package](https://www.npmjs.com/package/marked)
